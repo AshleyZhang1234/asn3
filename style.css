@@ -1,0 +1,108 @@
+.Home {
+	background-image: url(image/bg1.jpg);
+	background-size: cover;
+	height: 800px;
+}
+.navbar{
+	background-color: #9BA4DF;
+}
+.navbar ul li {
+	display: inline-block;
+	margin-left: 20px;
+}
+.navbar ul li a {
+	color: white;
+	text-decoration: none;
+}
+.navbar h1 {
+	font-size: 40px;
+	font-family: 'Josefin Sans', sans-serif;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: white;
+}
+.About {
+	background-color: #F1F3FF;
+}
+.profile {
+	max-width: 100%;
+	height: auto;
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+.About {
+	padding: 60px 0;
+}
+.words {
+    margin-top: 60px;
+    border-left: 1px solid #ccc;
+    padding-left: 20px;
+}
+.words h4 {
+	margin-bottom: 4px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.Contact {
+	padding: 60px 0;
+	background-color: #C39EDF;
+	color: white
+}
+.contact h1 {
+	font-size: 20px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
+input,textarea {
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+input [type="submit"] {
+	background: black;
+	color: white;
+}
+textarea {
+	min-height: 150px;
+}
+.Contactme {
+	background-image: url(image/bg2.jpg);
+	background-size: cover;
+
+}
+.Contactme ul li{
+	display: inline-block;
+	margin-right: 250px;
+
+}
+.Contactme ul li h4 {
+	display: inline-block;
+	margin-left: auto;
+	color: white;
+}
+.Gallery ul li {
+	display: inline-block;
+	margin-right: 60px;
+}
+.viewmore ul li a{
+text-decoration: none;
+color: black;
+margin-left: 10px;
+font-family: 'Josefin Sans', sans-serif;
+}
+
+.viewmore ul li a:hover{
+	color: purple;
+	font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
